@@ -1,6 +1,7 @@
 const URL = "http://localhost:3000"
 
 export default {
+  mode:"universal",
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'client',
