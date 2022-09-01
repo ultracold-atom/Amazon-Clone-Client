@@ -71,6 +71,7 @@ export default {
 
   generate: {
     dir: 'public',
+    dist: 'public'
   
   },
 
