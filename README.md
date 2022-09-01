@@ -63,6 +63,8 @@ Example: `/static/robots.txt` is mapped as `/robots.txt`.
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
 
 ### `store`
+![admin-category](https://user-images.githubusercontent.com/89178559/188016402-6d96a142-fe7c-4fb5-9c82-11f1e6dd4dd5.png)
+![admin-owner](https://user-images.githubusercontent.com/89178559/188016408-ba5e3608-3c5b-45bb-b3d8-50c95d4f608d.png)
 
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
