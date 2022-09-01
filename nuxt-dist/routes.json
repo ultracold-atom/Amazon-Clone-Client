@@ -1,0 +1,93 @@
+[
+  {
+    "name": "address",
+    "path": "/address",
+    "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\Amazon Clone\\\\Client\\\\pages\\\\address\\\\index.vue",
+    "chunkName": "pages/address/index",
+    "_name": "_3a97f634"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\Amazon Clone\\\\Client\\\\pages\\\\cart.vue",
+    "chunkName": "pages/cart",
+    "_name": "_28da77b0"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\Amazon Clone\\\\Client\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_16396d11"
+  },
+  {
+    "name": "orders",
+    "path": "/orders",
+    "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\Amazon Clone\\\\Client\\\\pages\\\\orders.vue",
+    "chunkName": "pages/orders",
+    "_name": "_49e0656d"
+  },
+  {
+    "name": "payment",
+    "path": "/payment",
+    "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\Amazon Clone\\\\Client\\\\pages\\\\payment.vue",
+    "chunkName": "pages/payment",
+    "_name": "_0257752e"
+  },
+  {
+    "name": "placeorder",
+    "path": "/placeorder",
+    "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\Amazon Clone\\\\Client\\\\pages\\\\placeorder.vue",
+    "chunkName": "pages/placeorder",
+    "_name": "_0566d42f"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\Amazon Clone\\\\Client\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_68bf4351"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\Amazon Clone\\\\Client\\\\pages\\\\search.vue",
+    "chunkName": "pages/search",
+    "_name": "_1d3362a0"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\Amazon Clone\\\\Client\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_0563bbc0"
+  },
+  {
+    "name": "address-add",
+    "path": "/address/add",
+    "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\Amazon Clone\\\\Client\\\\pages\\\\address\\\\add.vue",
+    "chunkName": "pages/address/add",
+    "_name": "_93237796"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id?",
+    "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\Amazon Clone\\\\Client\\\\pages\\\\products\\\\_id.vue",
+    "chunkName": "pages/products/_id",
+    "_name": "_ccb75b04"
+  },
+  {
+    "name": "reviews-id",
+    "path": "/reviews/:id?",
+    "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\Amazon Clone\\\\Client\\\\pages\\\\reviews\\\\_id.vue",
+    "chunkName": "pages/reviews/_id",
+    "_name": "_7c44ec87"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\Amazon Clone\\\\Client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4c91c9fa"
+  }
+]

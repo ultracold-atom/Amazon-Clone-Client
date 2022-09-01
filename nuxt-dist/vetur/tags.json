@@ -1,0 +1,23 @@
+{
+  "FeaturedProduct": {
+    "description": "Auto imported from components/FeaturedProduct.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "ReviewSection": {
+    "description": "Auto imported from components/ReviewSection.vue"
+  },
+  "Search": {
+    "description": "Auto imported from components/Search.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  }
+}
