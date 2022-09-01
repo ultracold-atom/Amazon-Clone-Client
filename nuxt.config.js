@@ -1,4 +1,4 @@
-const URL = "https://amazon-clone-server.vercel.app/"
+const URL = "https://amazon-clone-server.vercel.app"
 
 export default {
   mode:"universal",
