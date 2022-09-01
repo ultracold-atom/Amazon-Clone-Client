@@ -19,18 +19,26 @@ $ npm run generate
 
 For detailed explanation on how things work, check out the [documentationProject 
 
-# Project Features on Admin
- - Create new Product
- - Create new Product Category
- - Create new Product Owner
- - Update the products
+# Project Features on Client
+ - Create a new User and Sign-Up
+ - Login with the User
+ - See the Products at the store
+ - Make search with from Search Bar
+ - Add Products to the Shopping Cart
+ - Make reviews
    
 # Project Screenshots 
 
-![main-admin](https://user-images.githubusercontent.com/89178559/188016784-5470d627-f244-452e-bb7e-1084fba6df06.png)
-![main-product](https://user-images.githubusercontent.com/89178559/188016809-fc1c5c50-f6f8-40ef-87d5-e9d5777a63bf.png)
-![admin-category](https://user-images.githubusercontent.com/89178559/188016832-b9509a86-a33f-4996-adfc-3c6dccfe3ab9.png)
-![admin-owner](https://user-images.githubusercontent.com/89178559/188016839-28693420-0506-4544-bc1d-25f5ed33deb6.png)
+![client-main-page](https://user-images.githubusercontent.com/89178559/188019325-3bd4b575-497e-4f02-bd04-8aa8084aa829.png)
+
+![product-page](https://user-images.githubusercontent.com/89178559/188019343-b0656584-cba2-4373-b3e8-1eea4cb7b40d.png)
+
+![client-signin](https://user-images.githubusercontent.com/89178559/188019259-3897286c-ddae-4db3-ae5b-6cdc459479a2.png)
+
+![client-product-page](https://user-images.githubusercontent.com/89178559/188019377-2aa3b18f-4f01-46aa-999c-9b532cf99f33.png)
+
+![client-shopping-cart](https://user-images.githubusercontent.com/89178559/188019384-544f5598-70d7-4e1d-a027-aaf27b443c09.png)
+
 
 # Important Explanation !!
 Since Vercel gives you limited network communication ; There may issues with HTTP Requests.
